@@ -1,0 +1,132 @@
+Select an option: 0
+The p value for the first user is: 115702806521524101900801989837566523963359963644931531874561320907647049176591
+The q value for the first user is: 1047964017568313648867994158513820110639679509822548448345592718093837948997
+----------------------------------------------
+The p value for the second user is: 112089153554272533740126419725262130304528232318838266369011716944253834496109
+The q value for the second user is: 33889878795178663143529179006608026519114109150195315050216283572616248902221
+0. Generate the simple numbers for the users!
+1. Create the open keys for users!
+2. Create the secret keys for users!
+3. Generate the messages for the users!
+4. Cipher the created messages!
+5. Decipher the created messages!
+6. Create the signatures!
+7. Check the signatures!
+8. Send the key!!
+9. Exit!
+Select an option: 1
+Open key for the first user: 34096227313066249604606612412968064283887396650949087267711035096676736036712456223314938300310030334073680274739387214766055226841908316948953292004653
+Open key for the second user: 7663389892313174616371649249769889984783702514359151203298297310861800418895807634471694938880751068152448903388995446120075406998362926656415126028472943
+0. Generate the simple numbers for the users!
+1. Create the open keys for users!
+2. Create the secret keys for users!
+3. Generate the messages for the users!
+4. Cipher the created messages!
+5. Decipher the created messages!
+6. Create the signatures!
+7. Check the signatures!
+8. Send the key!!
+9. Exit!
+Select an option: 2
+Secret key for the first user: 17260063866919764041985005020227866073016844745896862697242444123225116743459506167281723051008658755828460490814675826721171284254208195303631690274157
+Secret key for the second user: 1351405962695623275405112339266207915380588207628488012542938827562317671840112093241861040719297173696746774102988529540717107099033901668677978093009807
+0. Generate the simple numbers for the users!
+1. Create the open keys for users!
+2. Create the secret keys for users!
+3. Generate the messages for the users!
+4. Cipher the created messages!
+5. Decipher the created messages!
+6. Create the signatures!
+7. Check the signatures!
+8. Send the key!!
+9. Exit!
+Select an option: 3
+Message for the first user: 32558798637169635012488620030312720488893388755348519219040509993643287946428460384184310259938130945646457873
+Message for the second user: 40165012063807962026353744316723052891962395065954025079882232904328963349356288984567649201814588434660017328
+0. Generate the simple numbers for the users!
+1. Create the open keys for users!
+2. Create the secret keys for users!
+3. Generate the messages for the users!
+4. Cipher the created messages!
+5. Decipher the created messages!
+6. Create the signatures!
+7. Check the signatures!
+8. Send the key!!
+9. Exit!
+Select an option: 4
+Ciphered message for the first user: 8061311783498117514322226310749635289690505984919661997613182877573466446015251333654387357242032118177123752402518105617823143705052144229185612292229692
+Ciphered message for the second user: 3938932644010056929394495142143130003745720762359213030901439030679556708623153817016328792716997179122042619968923474369720636420738539040385047385106
+0. Generate the simple numbers for the users!
+1. Create the open keys for users!
+2. Create the secret keys for users!
+3. Generate the messages for the users!
+4. Cipher the created messages!
+5. Decipher the created messages!
+6. Create the signatures!
+7. Check the signatures!
+8. Send the key!!
+9. Exit!
+Select an option: 5
+Deciphered message for the first user is: 32558798637169635012488620030312720488893388755348519219040509993643287946428460384184310259938130945646457873
+Deciphered message for the second user is: 40165012063807962026353744316723052891962395065954025079882232904328963349356288984567649201814588434660017328
+0. Generate the simple numbers for the users!
+1. Create the open keys for users!
+2. Create the secret keys for users!
+3. Generate the messages for the users!
+4. Cipher the created messages!
+5. Decipher the created messages!
+6. Create the signatures!
+7. Check the signatures!
+8. Send the key!!
+9. Exit!
+Select an option: 6
+Signature for the first user: 22569593173640691958084039284844053392845344957597412558415723929969077193428723384359340962235622848757340178619136928419967974802482430703049106262120
+Signature for the second user: 2464941539205303592873576904540862034655295043962697454971363179299894292966984986997409661751061923761812058811807890806321725110028385086572748947804537
+0. Generate the simple numbers for the users!
+1. Create the open keys for users!
+2. Create the secret keys for users!
+3. Generate the messages for the users!
+4. Cipher the created messages!
+5. Decipher the created messages!
+6. Create the signatures!
+7. Check the signatures!
+8. Send the key!!
+9. Exit!
+Select an option: 7
+Successfully checked for the first user!
+Successfully checked for the second user!
+0. Generate the simple numbers for the users!
+1. Create the open keys for users!
+2. Create the secret keys for users!
+3. Generate the messages for the users!
+4. Cipher the created messages!
+5. Decipher the created messages!
+6. Create the signatures!
+7. Check the signatures!
+8. Send the key!!
+9. Exit!
+Select an option: 8
+Here goes the key to send :)
+Here is the secret: 26818731900427651471619585777577744125246858366128981301919795538237698008582097896772571603081047829084269588173563878690411704962903897792823069149039
+Here is k1 value: 5889198475570687009039376004329567452396962416811578764461495890186902507409654017320328102817270868637125793655970858347230505629489513885400688082918359
+Here is s value: 23917214689046410135769887795995709014556822871294131253906115786406325143589012809167816384201708202234611686749293173782397359331510871141242255606404
+Here is s1 value: 6019176649501897687707237985111023636071806843853560746195297050804714929603185315524735893275203981556150891217300992778836800030960280109579039937925508
+Well done!
+To check everything, type 1: 1
+Here is the deciphered secret: 26818731900427651471619585777577744125246858366128981301919795538237698008582097896772571603081047829084269588173563878690411704962903897792823069149039
+Here is s value: 23917214689046410135769887795995709014556822871294131253906115786406325143589012809167816384201708202234611686749293173782397359331510871141242255606404
+Authentication checked: 26818731900427651471619585777577744125246858366128981301919795538237698008582097896772571603081047829084269588173563878690411704962903897792823069149039
+Well done!
+0. Generate the simple numbers for the users!
+1. Create the open keys for users!
+2. Create the secret keys for users!
+3. Generate the messages for the users!
+4. Cipher the created messages!
+5. Decipher the created messages!
+6. Create the signatures!
+7. Check the signatures!
+8. Send the key!!
+9. Exit!
+Select an option: 9
+Have a good one!
+Kyles-MacBook-Pro:lab_5 necrasov$
